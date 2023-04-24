@@ -28,11 +28,5 @@
         "id":5,
         "title": "Excepteur sint occaecat cupidatat non proident.",
         "completed": true
-    },
-    {
-        "userId": 1,
-        "id":6,
-        "title": "sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "completed": false
     }
 ]
